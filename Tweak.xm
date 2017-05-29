@@ -6,9 +6,6 @@
 @interface MPMoviePlayerViewController : UIViewController
 @end
 
-@interface MPInlineVideoFullscreenViewController : UIViewController
-@end
-
 @interface UIDevice (HorizontalVideos)
 -(void)setOrientation:(UIInterfaceOrientation)arg1;
 @end
