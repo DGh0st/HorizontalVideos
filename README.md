@@ -1,2 +1,2 @@
 # HorizontalVideos
-Display videos in landscape (horizontal) mode
+Display videos in landscape (horizontal) mode.
